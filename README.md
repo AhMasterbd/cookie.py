@@ -18,6 +18,8 @@ pip install bs4
 
 pkg install git
 
+rm -rf cookie.py
+
 git clone https://github.com/AhMasterbd/cookie.py
 
 
