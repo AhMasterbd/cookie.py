@@ -20,6 +20,7 @@ pkg install git
 
 git clone https://github.com/AhMasterbd/cookie.py
 
-ls
 
-cd 
+cd Coookie.py
+
+python Coookie.py
